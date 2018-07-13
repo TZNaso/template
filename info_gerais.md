@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="sistema">Sistema</h1>
 <h2 id="informações-gerais">Informações Gerais</h2>
