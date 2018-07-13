@@ -53,11 +53,11 @@
 </ul>
 <h4 id="dependências">Dependências:</h4>
 <ul>
-<li>Exemplo</li>
+<li>Exemplo.</li>
 </ul>
 <p><strong>Comando para gerar o artefato:</strong></p>
 <ul>
-<li>Exemplo</li>
+<li>Exemplo.</li>
 </ul>
 <p><strong>Integrações utilizados pela aplicação:</strong></p>
 <ul>
