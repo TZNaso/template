@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h3 id="informações-do-sistema">Informações do Sistema</h3>
 
 <table>
@@ -65,5 +70,5 @@
 <ul>
 <li>Exemplo.</li>
 </ul>
-<p><a href="">Informações Gerais</a></p>
+<p><a href="https://github.com/TZNaso/template/blob/master/info_gerais.md">Informações Gerais</a></p>
 
