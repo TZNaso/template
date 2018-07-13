@@ -11,7 +11,7 @@
 <th align="center"></th>
 <th align="center">Nome</th>
 <th align="center">Versão</th>
-<th align="center">Link para Download</th>
+<th align="center">Link</th>
 </tr>
 </thead>
 <tbody>
