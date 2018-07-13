@@ -1,6 +1,12 @@
+---
+
+
+---
+
 <h2 id="informações-do-sistema">Informações do Sistema</h2>
 <h3 id="variáveis-de-ambiente">Variáveis de ambiente:</h3>
-<p>%Nome_da_variavel%.</p>
+<p>%Nome_da_variavel%.<br>
+%Nome_da_variavel%.</p>
 <h3 id="dependências">Dependências:</h3>
 <p>Exemplo.</p>
 <h3 id="comando-para-gerar-o-artefato">Comando para gerar o artefato:</h3>
