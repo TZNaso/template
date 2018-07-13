@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h3 id="informações-do-sistema">Informações do Sistema</h3>
 
 <table>
@@ -6,7 +11,7 @@
 <th align="center"></th>
 <th align="center">Nome</th>
 <th align="center">Versão</th>
-<th align="center">Link</th>
+<th align="center">Observações</th>
 </tr>
 </thead>
 <tbody>
@@ -29,9 +34,21 @@
 <td align="center"></td>
 </tr>
 <tr>
+<td align="center"></td>
+<td align="center">Postgresql</td>
+<td align="center">9.6</td>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><strong>Frameworks</strong></td>
 <td align="center">Zend</td>
 <td align="center">2.5.3</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Laravel</td>
+<td align="center">5.6</td>
 <td align="center"></td>
 </tr>
 </tbody>
