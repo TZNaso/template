@@ -61,7 +61,7 @@
 </ul>
 <p><strong>Integrações utilizados pela aplicação:</strong></p>
 <ul>
-<li>WS</li>
+<li>WS.</li>
 </ul>
 <blockquote>
 <p>Para mais informações sobre utilização do serviço: <a href="https://swagger.io/">Link swagger</a></p>
