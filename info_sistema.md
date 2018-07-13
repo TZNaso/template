@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="informações-do-sistema">Informações do Sistema</h2>
 <h4 id="variáveis-de-ambiente">Variáveis de ambiente:</h4>
 <p>%Nome_da_variavel%.</p>
