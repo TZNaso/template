@@ -1,53 +1,10 @@
-<h2 id="informações-do-sistema">Informações do Sistema</h2>
+---
 
-<table>
-<thead>
-<tr>
-<th align="center"></th>
-<th align="center">Nome</th>
-<th align="center">Versão</th>
-<th align="center">Observações</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Servidor de Aplicação</strong></td>
-<td align="center">Jboss</td>
-<td align="center">7.1.0</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center"><strong>Linguagem</strong></td>
-<td align="center">PHP</td>
-<td align="center">7.2</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center"><strong>Banco de Dados</strong></td>
-<td align="center">MySql</td>
-<td align="center">8.0</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">Postgresql</td>
-<td align="center">9.6</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center"><strong>Frameworks</strong></td>
-<td align="center">Zend</td>
-<td align="center">2.5.3</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">Laravel</td>
-<td align="center">5.6</td>
-<td align="center"></td>
-</tr>
-</tbody>
-</table><h4 id="variáveis-de-ambiente">Variáveis de ambiente:</h4>
+
+---
+
+<h2 id="informações-do-sistema">Informações do Sistema</h2>
+<h4 id="variáveis-de-ambiente">Variáveis de ambiente:</h4>
 <ul>
 <li>%Nome_da_variavel%.</li>
 </ul>
