@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="sistema">Sistema</h1>
 <h2 id="informações-gerais">Informações Gerais</h2>
 <p>Responsável: Clique <a href="http://intranet.fnde.gov.br/tivirtual/index.php/cgdes/responsaveis-manutencao-e-projetos">aqui</a> .</p>
