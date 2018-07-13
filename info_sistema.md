@@ -1,14 +1,19 @@
+---
+
+
+---
+
 <h2 id="informações-do-sistema">Informações do Sistema</h2>
-<h4 id="variáveis-de-ambiente">Variáveis de ambiente:</h4>
+<h3 id="variáveis-de-ambiente">Variáveis de ambiente:</h3>
 <p>%Nome_da_variavel%.</p>
-<h4 id="dependências">Dependências:</h4>
+<h3 id="dependências">Dependências:</h3>
 <p>Exemplo.</p>
-<p><strong>Comando para gerar o artefato:</strong></p>
+<h3 id="comando-para-gerar-o-artefato">Comando para gerar o artefato:</h3>
 <p>Exemplo.</p>
-<p><strong>Integrações utilizados pela aplicação:</strong></p>
+<h3 id="integrações-utilizados-pela-aplicação">Integrações utilizados pela aplicação:</h3>
 <p><a href="">WS receita</a><br>
 <a href="">WS corp</a></p>
-<h4 id="caso-delphi">Caso <em>Delphi</em>:</h4>
+<h3 id="caso-delphi">Caso <em>Delphi</em>:</h3>
 <blockquote>
 <p>Sistema Operacional e versão:</p>
 <ul>
