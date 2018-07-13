@@ -1,4 +1,9 @@
-<h3 id="informações-do-sistema">Informações do Sistema</h3>
+---
+
+
+---
+
+<h2 id="informações-do-sistema">Informações do Sistema</h2>
 
 <table>
 <thead>
