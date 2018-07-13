@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="informações-do-sistema">Informações do Sistema</h2>
 
 <table>
