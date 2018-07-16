@@ -6,7 +6,7 @@
 <p>Exemplo.</p>
 <h3 id="comando-para-gerar-o-artefato">Comando para gerar o artefato:</h3>
 <p>Exemplo.</p>
-<h3 id="integrações-utilizados-pela-aplicação">Integrações utilizados pela aplicação:</h3>
+<h3 id="integrações-utilizadas-pela-aplicação">Integrações utilizados pela aplicação:</h3>
 <p><a href="">WS receita</a><br>
 <a href="">WS corp</a></p>
 <h3 id="caso-delphi">Caso <em>Delphi</em>:</h3>
